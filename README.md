@@ -81,7 +81,6 @@ I am constantly improving my skills by working on real-world projects and explor
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -91,24 +90,24 @@ I am constantly improving my skills by working on real-world projects and explor
 
 # 📌 What I Do
 
-✨ Analyze and clean datasets
-✨ Build interactive Power BI dashboards
-✨ Write optimized SQL queries
-✨ Create business reports and KPI dashboards
-✨ Transform raw data into actionable insights
+*✨ Analyze and clean datasets
+*✨ Build interactive Power BI dashboards
+*✨ Write optimized SQL queries
+*✨ Create business reports and KPI dashboards
+*✨ Transform raw data into actionable insights
 
 ---
 
 # 📈 Skills
 
-✔ Data Analytics
-✔ Power BI Dashboard Development
-✔ SQL & Database Management
-✔ Data Cleaning & Transformation
-✔ DAX Calculations
-✔ Business Intelligence
-✔ Data Visualization
-✔ Problem Solving
+*✔ Data Analytics
+*✔ Power BI Dashboard Development
+*✔ SQL & Database Management
+*✔ Data Cleaning & Transformation
+*✔ DAX Calculations
+*✔ Business Intelligence
+*✔ Data Visualization
+*✔ Problem Solving
 
 ---
 
