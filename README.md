@@ -100,14 +100,14 @@ I am constantly improving my skills by working on real-world projects and explor
 
 # 📈 Skills
 
-*✔ Data Analytics
-*✔ Power BI Dashboard Development
-*✔ SQL & Database Management
-*✔ Data Cleaning & Transformation
-*✔ DAX Calculations
-*✔ Business Intelligence
-*✔ Data Visualization
-*✔ Problem Solving
+* ✔ Data Analytics
+* ✔ Power BI Dashboard Development
+* ✔ SQL & Database Management
+* ✔ Data Cleaning & Transformation
+* ✔ DAX Calculations
+* ✔ Business Intelligence
+* ✔ Data Visualization
+* ✔ Problem Solving
 
 ---
 
