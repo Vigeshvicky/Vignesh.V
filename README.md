@@ -90,11 +90,11 @@ I am constantly improving my skills by working on real-world projects and explor
 
 # 📌 What I Do
 
-*✨ Analyze and clean datasets
-*✨ Build interactive Power BI dashboards
-*✨ Write optimized SQL queries
-*✨ Create business reports and KPI dashboards
-*✨ Transform raw data into actionable insights
+* ✨ Analyze and clean datasets                                                   
+* ✨ Build interactive Power BI dashboards                                               
+* ✨ Write optimized SQL queries                                   
+* ✨ Create business reports and KPI dashboards
+* ✨ Transform raw data into actionable insights
 
 ---
 
